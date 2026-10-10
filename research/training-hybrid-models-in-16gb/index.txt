@@ -1,0 +1,66 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/42onvq6nokjl2.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+a:I[97367,["$2"],"OutletBoundary"]
+b:"$Sreact.suspense"
+d:"ViewportBoundary"
+e:I[97367,["$2"],"$d"]
+10:"MetadataBoundary"
+11:I[97367,["$2"],"$10"]
+13:I[68027,["$2"],"default",1]
+:HL["/_next/static/chunks/12t7ljzwaqmyi.css","style"]
+:HL["/_next/static/media/5476f68d60460930-s.p.2uwcyprjm3xu3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/70bc3e132a0a741e-s.p.3t6q91iet4nsy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e4505858a30c79c2-s.p.0tlhhw_qyyfys.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e6c3b2b7c3a61f79-s.p.0y7p5r83eele4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+6:X
+8:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L9",[["$","script","script-0",{"src":"/_next/static/chunks/326j4lykedjd7.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/375918jdm9hy9.js","async":true,"nonce":"$undefined"}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"p":false,"v":null}}]]
+7:[["children",{"s":{"n":"slug","t":"d","k":"training-hybrid-models-in-16gb","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$6"},"c":"$Q8"}]]
+5:[["children",{"s":"research","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$6"},"c":"$Q7"}]]
+0:{"P":null,"c":["","research","training-hybrid-models-in-16gb",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/12t7ljzwaqmyi.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/42onvq6nokjl2.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"Zopp6W_variable ptkl8G_variable lMjmPq_variable","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],"p":false,"v":null},"c":"$Q5"},"h":{"r":["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","$L11",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":"$L12"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$13",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/12t7ljzwaqmyi.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"uKBWHKrFc-zntcll4cdq5"}
+14:"/_next/static/chunks/326j4lykedjd7.js"
+15:"/_next/static/chunks/375918jdm9hy9.js"
+16:I[42724,["$2","$14","$15"],"default"]
+17:I[92953,["$2","$14","$15"],"Reveal"]
+18:I[22016,["$2","$14","$15"],""]
+1a:I[92953,["$2","$14","$15"],"Meander"]
+1b:I[83033,["$2","$14","$15"],"default"]
+6:C
+19:T775,<h2>The crash</h2>
+<p>Noetic&#39;s base model mixes ordinary attention with Gated DeltaNet, a linear-attention layer that keeps a running state. In training mode, the MLX implementation runs that layer token by token and keeps a full 32 × 128 × 128 state for every token so it can compute gradients. That&#39;s about 2 MB per token per layer before temporaries. Our first overnight run died with <code>Insufficient Memory</code> before step one, on both Macs.</p>
+<h2>Fix 1: a chunked Gated DeltaNet</h2>
+<p>We wrote the chunked form of the gated delta rule in plain MLX operations: states are kept only every 64 tokens, and the work inside a chunk is a few small matrix products. It matches the reference loop&#39;s outputs and gradients.</p>
+<p>One detail mattered. Inverting the 64 × 64 triangular system with a Neumann series overflowed to infinity whenever consecutive keys pointed the same way, which real text does, and training produced NaN. Block-triangular inversion is exact and stays bounded:</p>
+<pre><code class="language-text">[[A, 0], [C, D]]^-1 = [[A^-1, 0], [-D^-1 C A^-1, D^-1]]
+</code></pre>
+<h2>Fix 2: a chunked vocabulary loss</h2>
+<p>With a 248K-word vocabulary, full logits for a 3K-token example are about 3 GB in float32, plus their gradients. We project to the vocabulary 512 tokens at a time and recompute in the backward pass.</p>
+<h2>Results</h2>
+<table>
+<thead>
+<tr>
+<th>Setting</th>
+<th>Peak memory</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Stock, 2,048 tokens, 16 layers</td>
+<td>out of memory</td>
+</tr>
+<tr>
+<td>Both fixes, 2,048 tokens, 16 layers</td>
+<td>10.9 GB</td>
+</tr>
+<tr>
+<td>Both fixes, 3,072 tokens, 8 layers</td>
+<td>11.4 GB</td>
+</tr>
+</tbody></table>
+<p>The usable limit on the 16 GB Air is about 12.7 GB. Training runs at about 56 tokens per second on a fanless M4, close to the hardware floor. A plain forward pass alone takes 6.7 seconds per 1,024 tokens.</p>
+9:[["$","$L16",null,{}],["$","main",null,{"className":"wrap","children":["$","article",null,{"className":"article","children":[["$","$L17",null,{"children":["$","$L18",null,{"href":"/research","className":"eyebrow","children":"← Research"}]}],["$","$L17",null,{"children":["$","h1",null,{"children":"Training a hybrid 9B model in 16 GB"}]}],["$","$L17",null,{"children":["$","p",null,{"style":{"color":"var(--ink-3)"},"children":["Sasha Babenkov and the NoeticAI team"," · ","Oct 8, 2026"]}]}],["$","$L17",null,{"children":["$","p",null,{"className":"abstract","children":"Stock LoRA training of Qwen3.5-9B ran out of memory at the first step on a 16 GB MacBook Air. Two changes, a chunked Gated DeltaNet and a chunked vocabulary loss, brought a full 3,072-token step to 11.4 GB."}]}],[["$","div","0",{"className":"prose","dangerouslySetInnerHTML":{"__html":"$19"}}]]]}]}],[["$","div",null,{"className":"wrap","style":{"marginTop":10,"marginBottom":6},"children":["$","$L1a",null,{"width":1200,"height":14,"opacity":0.35}]}],["$","footer",null,{"children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"brand","style":{"fontSize":20},"children":[["$","$L1b",null,{"size":26}],"NoeticAI"]}],["$","div",null,{"style":{"display":"flex","gap":24},"children":[["$","$L18",null,{"href":"/research","children":"Research"}],["$","$L18",null,{"href":"/#install","children":"Install"}]]}],["$","div",null,{"children":"“All people by nature desire to know.” — Aristotle"}]]}]}]]]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1c:I[27201,["$2"],"IconMark"]
+c:null
+12:[["$","title","0",{"children":"Training a hybrid 9B model in 16 GB — NoeticAI"}],["$","meta","1",{"name":"description","content":"Noetic 1.0 is a private, self-improving AI that thinks, uses tools, and checks its own work, entirely on your Mac."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L1c","3",{}]]

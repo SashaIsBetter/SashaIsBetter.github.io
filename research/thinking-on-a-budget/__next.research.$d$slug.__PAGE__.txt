@@ -1,0 +1,55 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/42onvq6nokjl2.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+d:"/_next/static/chunks/326j4lykedjd7.js"
+e:"/_next/static/chunks/375918jdm9hy9.js"
+f:I[42724,["$2","$d","$e"],"default"]
+10:I[92953,["$2","$d","$e"],"Reveal"]
+11:I[22016,["$2","$d","$e"],""]
+19:"ViewportBoundary"
+1a:I[97367,["$2"],"$19"]
+1b:"MetadataBoundary"
+1c:I[97367,["$2"],"$1b"]
+1d:"$Sreact.suspense"
+1e:I[27201,["$2"],"IconMark"]
+:HL["/_next/static/chunks/12t7ljzwaqmyi.css","style"]
+6:X
+9:X
+9:C
+12:T5e0,<h2>Overthinking is the default</h2>
+<p>A 9B reasoning model will happily spend thousands of tokens on a question that needed ten. On a laptop that&#39;s not just slow, it&#39;s heat and battery.</p>
+<h2>Three routes</h2>
+<ul>
+<li><strong>Small talk</strong> gets no reasoning at all.</li>
+<li><strong>Quantitative questions</strong> get two quick drafts without reasoning. If they agree, that agreement is the check and the answer stands. If they disagree, Noetic reasons with twice the usual budget.</li>
+<li><strong>Everything else</strong>, including anything that asks Noetic to make or run something, reasons with tools available.</li>
+</ul>
+<h2>A budget, not a wall</h2>
+<p>Reasoning is capped (1,536 tokens on Balanced). When the budget runs out, Qwen&#39;s own published transition nudges the model to wrap up and answer, rather than cutting it off mid-thought.</p>
+<h2>Checking the answer</h2>
+<p>Math answers are recomputed by a short program, and code is tested, both in a sandbox. If a check disagrees, the answer is corrected before the user sees it. Checks are capped at 30 seconds, because a slow check is worse than none.</p>
+<h2>A lesson about sampling</h2>
+<p>Following a published recommendation, we used a presence penalty of 1.5. On MLX it is applied to the last 64 tokens, which penalises spaces and common words, and it occasionally produced garbled, mixed-language text. We replaced it with min-p 0.05, which removes the near-zero-probability tail without dulling the model.</p>
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$Lf",null,{}],["$","main",null,{"className":"wrap","children":["$","article",null,{"className":"article","children":[["$","$L10",null,{"children":["$","$L11",null,{"href":"/research","className":"eyebrow","children":"← Research"}]}],["$","$L10",null,{"children":["$","h1",null,{"children":"Thinking on a budget: adaptive reasoning for a laptop model"}]}],["$","$L10",null,{"children":["$","p",null,{"style":{"color":"var(--ink-3)"},"children":["Sasha Babenkov and the NoeticAI team"," · ","Oct 7, 2026"]}]}],["$","$L10",null,{"children":["$","p",null,{"className":"abstract","children":"Small reasoning models overthink. Noetic decides per question whether to think at all, tries two quick drafts before reasoning, caps its reasoning, and checks math and code by running them."}]}],[["$","div","0",{"className":"prose","dangerouslySetInnerHTML":{"__html":"$12"}}]]]}]}],["$L13","$L14"]],["$L15","$L16"],"$L17"]}],"p":"$@18","v":null,"s":"$6"}}]]
+a:[["children",{"s":{"n":"slug","t":"d","k":"thinking-on-a-budget","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@b","v":"$9","s":"$6"},"c":"$Qc"}]]
+7:[["children",{"s":"research","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@8","v":"$9","s":"$6"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/12t7ljzwaqmyi.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/42onvq6nokjl2.js","async":true}]],["$","html",null,{"lang":"en","className":"Zopp6W_variable ptkl8G_variable lMjmPq_variable","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Thinking on a budget: adaptive reasoning for a laptop model — NoeticAI"}],["$","meta","1",{"name":"description","content":"Noetic 1.0 is a private, self-improving AI that thinks, uses tools, and checks its own work, entirely on your Mac."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L1e","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1f","v":null,"s":"$6"}},"a":"$@20","u":"$@21","b":"uKBWHKrFc-zntcll4cdq5"}
+22:I[92953,["$2","$d","$e"],"Meander"]
+23:I[83033,["$2","$d","$e"],"default"]
+24:I[97367,["$2"],"OutletBoundary"]
+13:["$","div",null,{"className":"wrap","style":{"marginTop":10,"marginBottom":6},"children":["$","$L22",null,{"width":1200,"height":14,"opacity":0.35}]}]
+14:["$","footer",null,{"children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"brand","style":{"fontSize":20},"children":[["$","$L23",null,{"size":26}],"NoeticAI"]}],["$","div",null,{"style":{"display":"flex","gap":24},"children":[["$","$L11",null,{"href":"/research","children":"Research"}],["$","$L11",null,{"href":"/#install","children":"Install"}]]}],["$","div",null,{"children":"“All people by nature desire to know.” — Aristotle"}]]}]}]
+15:["$","script","script-0",{"src":"/_next/static/chunks/326j4lykedjd7.js","async":true}]
+16:["$","script","script-1",{"src":"/_next/static/chunks/375918jdm9hy9.js","async":true}]
+17:["$","$L24",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@25"}]}]
+6:300
+25:null
+21:true
+6:C
+20:0
+b:"$undefined"
+8:"$undefined"
+5:"$undefined"
+1f:"$undefined"
+18:"$undefined"
